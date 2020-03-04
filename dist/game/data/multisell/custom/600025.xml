@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+		<item>
+		<!-- Adena -->
+		<ingredient count="100000000" id="57" />
+		<!-- Elmoreden Cloak -->
+		<production count="1" id="28585" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="1" id="28585" />
+		<!-- Elmoreden Cloak - Legendary -->
+		<production count="1" id="28589" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100000000" id="57" />
+		<!-- Aden Cloak -->
+		<production count="1" id="28586" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="1" id="28586" />
+		<!-- Aden Cloak - Legendary -->
+		<production count="1" id="28590" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100000000" id="57" />
+		<!-- Elmoreden Cloak -->
+		<production count="1" id="28587" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="1" id="28587" />
+		<!-- Elmoreden Cloak - Legendary -->
+		<production count="1" id="28591" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100000000" id="57" />
+		<!-- Ferios Cloak -->
+		<production count="1" id="28588" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="1" id="28588" />
+		<!-- Ferios Cloak - Legendary -->
+		<production count="1" id="28592" />
+	</item>
+
+	<item>
+		<!-- Adena -->
+		<ingredient count="100000000" id="57" />
+		<!-- Cloak of Light -->
+		<production count="1" id="34925" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="1" id="34925" />
+		<!-- Cloak of Radiant Light -->
+		<production count="1" id="34996" />
+	</item>
+		<item>
+		<!-- Adena -->
+		<ingredient count="100000000" id="57" />
+		<!-- Cloak of Darkness -->
+		<production count="1" id="34926" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="1" id="34926" />
+		<!-- Cloak of Cold Darkness -->
+		<production count="1" id="34997" />
+	</item>
+</list>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- Forgotten SpellBook -->
+
+	<item>
+	<!-- Adena -->
+	<ingredient count="2" id="27659" />
+	<production count="1" id="48876" />
+	<!-- Forgotten SpellBook Chapter 1 -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="2" id="27659" />
+	<production count="1" id="48877" />
+	<!-- Forgotten SpellBook Chapter 2 -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="2" id="27659" />
+	<production count="1" id="48878" />
+	<!-- Forgotten SpellBook Chapter 3 -->
+	</item>
+
+
+</list>

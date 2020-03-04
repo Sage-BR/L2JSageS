@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/initialEquipment.xsd">
+	<!-- Human Fighter -->
+	<equipment classId="0">
+		<item id="7821" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="7818" count="1" /> <!-- Dagger -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Human Mystic -->
+	<equipment classId="10">
+		<item id="176" count="1" equipped="true" /> <!-- Apprentice's Wand -->
+		<item id="425" count="1" equipped="true" /> <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" /> <!-- Apprentice's Stockings -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Elven Fighter -->
+	<equipment classId="18">
+		<item id="7821" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="7818" count="1" /> <!-- Dagger -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Elven Mystic -->
+	<equipment classId="25">
+		<item id="176" count="1" equipped="true" /> <!-- Apprentice's Wand -->
+		<item id="425" count="1" equipped="true" /> <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" /> <!-- Apprentice's Stockings -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Dark Fighter -->
+	<equipment classId="31">
+		<item id="7821" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="7818" count="1" /> <!-- Dagger -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Dark Mystic -->
+	<equipment classId="38">
+		<item id="176" count="1" equipped="true" /> <!-- Apprentice's Wand -->
+		<item id="425" count="1" equipped="true" /> <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" /> <!-- Apprentice's Stockings -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Orc Fighter -->
+	<equipment classId="44">
+		<item id="7821" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="7819" count="1" /> <!-- Training Gloves -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Orc Mystic -->
+	<!-- NOTE: This is orc_mage (orc_shaman is retail typo) -->
+	<equipment classId="49">
+		<item id="7819" count="1" equipped="true" /> <!-- Training Gloves -->
+		<item id="425" count="1" equipped="true" /> <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" /> <!-- Apprentice's Stockings -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="176" count="1" equipped="true" /> <!-- Apprentice's Wand -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Dwarf Fighter -->
+	<equipment classId="53">
+		<item id="7817" count="1" equipped="true" /> <!-- Guild Member's Club -->
+		<item id="7818" count="1" /> <!-- Dagger -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Male Kamael Soldier -->
+	<equipment classId="123">
+		<item id="7821" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="7818" count="1" /> <!-- Dagger -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Female Kamael Soldier -->
+	<equipment classId="124">
+		<item id="7821" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="7818" count="1" /> <!-- Dagger -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Ertheia Fighter -->
+	<equipment classId="182">
+		<item id="7819" count="1" equipped="true" /> <!-- Training Gloves -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="40195" count="1000" /> <!-- Scroll of Escape: Faeron Village -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+	<!-- Ertheia Wizard -->
+	<equipment classId="183">
+		<item id="176" count="1" equipped="true" /> <!-- Apprentice's Staff -->
+		<item id="425" count="1" equipped="true" /> <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" /> <!-- Apprentice's Stockings -->
+		<item id="40195" count="1000" /> <!-- Scroll of Escape: Faeron Village -->
+		<item id="10650" count="50" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="5789" count="2000" /> <!-- Soulshot (Novice) -->
+		<item id="5790" count="2000" /> <!-- Spiritshot (Novice) -->
+		<item id="728" count="1000" /> <!-- Mana Potion -->
+		<item id="1539" count="1000" /> <!-- Major healing Potion -->
+		<item id="112" count="2" /> <!--Apprentice Earring -->
+	</equipment>
+</list>
