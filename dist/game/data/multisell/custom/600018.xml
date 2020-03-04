@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000" id="57" />
+		<!-- Twilight Shirt -->
+		<production count="1" id="32611" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000" id="57" />
+		<!-- Twilight Shirt -->
+		<production count="1" id="32612" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000" id="57" />
+		<!-- Twilight Shirt -->
+		<production count="1" id="32613" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000" id="57" />
+		<!-- Seraph Shirt -->
+		<production count="1" id="32614" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000" id="57" />
+		<!-- Seraph Shirt -->
+		<production count="1" id="32615" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000" id="57" />
+		<!-- Seraph Shirt -->
+		<production count="1" id="32616" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000" id="57" />
+		<!-- Eternal Shirt -->
+		<production count="1" id="32617" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000" id="57" />
+		<!-- Eternal Shirt -->
+		<production count="1" id="32618" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000" id="57" />
+		<!-- Eternal Shirt -->
+		<production count="1" id="32619" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<!-- Istina's Shirt -->
+		<production count="1" id="19456" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<!-- Octavis' Shirt -->
+		<production count="1" id="19462" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<!-- Pa'agrio's Shirt -->
+		<production count="1" id="34623" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<!-- Sayha's Shirt -->
+		<production count="1" id="34624" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<!-- Eva's Shirt -->
+		<production count="1" id="34625" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<!-- Maphr's Shirt -->
+		<production count="1" id="34626" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1" id="34623" />
+		<ingredient count="1" id="34624" />
+		<ingredient count="1" id="34625" />
+		<ingredient count="1" id="34626" />
+		<!-- Elemental Shirt -->
+		<production count="1" id="37718" />
+	</item>
+</list>

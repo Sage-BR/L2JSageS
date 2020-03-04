@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/initialEquipment.xsd">
+	<!-- Human Fighter -->
+	<equipment classId="0">
+		<item id="2369" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="32226" count="10" /> <!-- Scroll of Escape: Talking Island Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="10" count="1" /> <!-- Dagger -->
+		<item id="1835" count="1000" /> <!-- SoulSHOT -->
+	</equipment>
+	<!-- Human Mystic -->
+	<equipment classId="10">
+		<item id="6" count="1" equipped="true" /> <!-- Apprentice's Wand -->
+		<item id="425" count="1" equipped="true" /> <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" /> <!-- Apprentice's Stockings -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="32226" count="10" /> <!-- Scroll of Escape: Talking Island Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="3947" count="1000" /> <!-- SpiritSHOT -->
+	</equipment>
+	<!-- Elven Fighter -->
+	<equipment classId="18">
+		<item id="2369" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="32226" count="10" /> <!-- Scroll of Escape: Talking Island Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="10" count="1" /> <!-- Dagger -->
+		<item id="1835" count="1000" /> <!-- SoulSHOT -->
+	</equipment>
+	<!-- Elven Mystic -->
+	<equipment classId="25">
+		<item id="6" count="1" equipped="true" /> <!-- Apprentice's Wand -->
+		<item id="425" count="1" equipped="true" /> <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" /> <!-- Apprentice's Stockings -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="32226" count="10" /> <!-- Scroll of Escape: Talking Island Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="3947" count="1000" /> <!-- SpiritSHOT -->
+	</equipment>
+	<!-- Dark Fighter -->
+	<equipment classId="31">
+		<item id="2369" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="32226" count="10" /> <!-- Scroll of Escape: Talking Island Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="10" count="1" /> <!-- Dagger -->
+		<item id="1835" count="1000" /> <!-- SoulSHOT -->
+	</equipment>
+	<!-- Dark Mystic -->
+	<equipment classId="38">
+		<item id="6" count="1" equipped="true" /> <!-- Apprentice's Wand -->
+		<item id="425" count="1" equipped="true" /> <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" /> <!-- Apprentice's Stockings -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="32226" count="10" /> <!-- Scroll of Escape: Talking Island Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="3947" count="1000" /> <!-- SpiritSHOT -->
+	</equipment>
+	<!-- Orc Fighter -->
+	<equipment classId="44">
+		<item id="2369" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="32226" count="10" /> <!-- Scroll of Escape: Talking Island Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="2368" count="1" /> <!-- Training Gloves -->
+		<item id="1835" count="1000" /> <!-- SoulSHOT -->
+	</equipment>
+	<!-- Orc Mystic -->
+	<!-- NOTE: This is orc_mage (orc_shaman is retail typo) -->
+	<equipment classId="49">
+		<item id="2368" count="1" equipped="true" /> <!-- Training Gloves -->
+		<item id="425" count="1" equipped="true" /> <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" /> <!-- Apprentice's Stockings -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="32226" count="10" /> <!-- Scroll of Escape: Talking Island Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="3947" count="1000" /> <!-- SpiritSHOT -->
+	</equipment>
+	<!-- Dwarf Fighter -->
+	<equipment classId="53">
+		<item id="2370" count="1" equipped="true" /> <!-- Guild Member's Club -->
+		<item id="10" count="1" /> <!-- Dagger -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="32226" count="10" /> <!-- Scroll of Escape: Talking Island Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="1835" count="1000" /> <!-- SoulSHOT -->
+	</equipment>
+	<!-- Male Kamael Soldier -->
+	<equipment classId="123">
+		<item id="2369" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="32226" count="10" /> <!-- Scroll of Escape: Talking Island Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="10" count="1" /> <!-- Dagger -->
+		<item id="1835" count="1000" /> <!-- SoulSHOT -->
+	</equipment>
+	<!-- Female Kamael Soldier -->
+	<equipment classId="124">
+		<item id="2369" count="1" equipped="true" /> <!-- Squire's Sword -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="32226" count="10" /> <!-- Scroll of Escape: Talking Island Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="10" count="1" /> <!-- Dagger -->
+		<item id="1835" count="1000" /> <!-- SoulSHOT -->
+	</equipment>
+	<!-- Ertheia Fighter -->
+	<equipment classId="182">
+		<item id="2368" count="1" equipped="true" /> <!-- Training Gloves -->
+		<item id="1146" count="1" equipped="true" /> <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" /> <!-- Squire's Pants -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="40195" count="10" /> <!-- Scroll of Escape: Faeron Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="1835" count="1000" /> <!-- SoulSHOT -->
+	</equipment>
+	<!-- Ertheia Wizard -->
+	<equipment classId="183">
+		<item id="40061" count="1" equipped="true" /> <!-- Apprentice's Staff -->
+		<item id="425" count="1" equipped="true" /> <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" /> <!-- Apprentice's Stockings -->
+		<item id="20922" count="1" equipped="true" /> <!-- Adventurer Hat -->
+		<item id="22193" count="1" equipped="true" /> <!-- Mount - Rocking Horse -->
+		<item id="40195" count="10" /> <!-- Scroll of Escape: Faeron Village -->
+		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
+		<item id="3947" count="1000" /> <!-- SpiritSHOT -->
+	</equipment>
+</list>
