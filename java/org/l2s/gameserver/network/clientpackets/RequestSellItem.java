@@ -107,6 +107,7 @@ public class RequestSellItem implements IClientIncomingPacket
 		MerchantInstance merchant = null;
 		if (!player.isGM() && (_listId != CUSTOM_CB_SELL_LIST))
 		{
+			// client.getPlayer().sendMessage("0");
 			if ((target == null) || !player.isInsideRadius3D(target, INTERACTION_DISTANCE) || (player.getInstanceId() != target.getInstanceId()))
 			{
 				client.sendPacket(ActionFailed.STATIC_PACKET);
@@ -123,8 +124,9 @@ public class RequestSellItem implements IClientIncomingPacket
 			}
 		}
 		
-		if ((merchant == null) && !player.isGM())
+		if ((merchant == null) && !player.isGM() && (_listId != CUSTOM_CB_SELL_LIST))
 		{
+			// client.getPlayer().sendMessage("1");
 			client.sendPacket(ActionFailed.STATIC_PACKET);
 			return;
 		}
