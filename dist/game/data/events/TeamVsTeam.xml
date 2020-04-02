@@ -18,7 +18,7 @@
 			</schedule>
 			
 			<!-- Schedule every day at 16:50 -->
-			<schedule name="start" hour="24" minute="50">
+			<schedule name="start" hour="00" minute="50">
 				<event name="#startEvent" />
 			</schedule>
 
